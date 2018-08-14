@@ -3,4 +3,5 @@ public class index {
     public int j;
 	public int k;
 	public int m;
+	public int n;
 }
