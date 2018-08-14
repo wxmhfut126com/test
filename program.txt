@@ -3,4 +3,5 @@ Main(){
 }
 method(){
 	print "my name is dd"
+	print "dddd"
 }
